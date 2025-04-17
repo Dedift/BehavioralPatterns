@@ -1,6 +1,7 @@
-package org.example.behavioralpatterns.command.Commands;
+package org.example.behavioralpaatterns.command.Commands;
 
-import org.example.behavioralpatterns.command.TV;
+
+import org.example.behavioralpaatterns.command.TV;
 
 public class TVOffCommand implements Command {
     private TV tv;

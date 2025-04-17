@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.Interpretator.tokens;
+package org.example.behavioralpaatterns.Interpretator.tokens;
 
 public class Minus implements Expression {
     Expression expressionLeft;

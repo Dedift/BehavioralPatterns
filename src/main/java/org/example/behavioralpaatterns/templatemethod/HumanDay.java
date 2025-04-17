@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.templatemethod;
+package org.example.behavioralpaatterns.templatemethod;
 
 public abstract class HumanDay {
 

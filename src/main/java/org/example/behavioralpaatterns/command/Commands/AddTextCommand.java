@@ -1,6 +1,7 @@
-package org.example.behavioralpatterns.command.Commands;
+package org.example.behavioralpaatterns.command.Commands;
 
-import org.example.behavioralpatterns.command.TextEditor;
+
+import org.example.behavioralpaatterns.command.TextEditor;
 
 public class AddTextCommand implements UndoableCommand{
     private TextEditor editor;

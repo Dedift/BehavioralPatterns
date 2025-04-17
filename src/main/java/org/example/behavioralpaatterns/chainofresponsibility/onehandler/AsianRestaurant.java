@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.chainofresponsibility.onehandler;
+package org.example.behavioralpaatterns.chainofresponsibility.onehandler;
 
 public class AsianRestaurant extends Restaurant {
 

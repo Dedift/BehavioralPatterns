@@ -1,6 +1,7 @@
-package org.example.behavioralpatterns.mediator.mediators;
+package org.example.behavioralpaatterns.mediator.mediators;
 
-import org.example.behavioralpatterns.mediator.components.Component;
+
+import org.example.behavioralpaatterns.mediator.components.Component;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.memento;
+package org.example.behavioralpaatterns.memento;
 
 import java.util.Stack;
 

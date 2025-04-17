@@ -1,6 +1,7 @@
-package org.example.behavioralpatterns.command.Commands;
+package org.example.behavioralpaatterns.command.Commands;
 
-import org.example.behavioralpatterns.command.Light;
+
+import org.example.behavioralpaatterns.command.Light;
 
 public class LightOnCommand implements Command {
     private Light light;

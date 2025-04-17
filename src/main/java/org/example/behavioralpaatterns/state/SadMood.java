@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.state;
+package org.example.behavioralpaatterns.state;
 
 public class SadMood implements Mood {
     private Person person;

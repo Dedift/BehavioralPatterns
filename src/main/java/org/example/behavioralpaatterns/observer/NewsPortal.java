@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.observer;
+package org.example.behavioralpaatterns.observer;
 
 public class NewsPortal implements NewsSubscriber {
     private String name;

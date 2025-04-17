@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.chainofresponsibility.manyhandlers;
+package org.example.behavioralpaatterns.chainofresponsibility.manyhandlers;
 
 public class Main {
     public static void main(String[] args) {
@@ -10,8 +10,8 @@ public class Main {
         emailMessageHandler.nextHandler = smsMessageHandler;
         smsMessageHandler.nextHandler = postMessageHandler;
 
-        emailMessageHandler.handlerManager("Сообщение низкого приоритета: ", PriorityLevel.LOW);
-        emailMessageHandler.handlerManager("Сообщение среднего приоритета: ", PriorityLevel.MIDDLE);
-        emailMessageHandler.handlerManager("Сообщение высокого приоритета: ", PriorityLevel.HIGH);
+        emailMessageHandler.handlerManager("Спам письмо", PriorityLevel.LOW);
+        emailMessageHandler.handlerManager("Предупреждение МЧС об оранжевом уровне опасности.", PriorityLevel.MIDDLE);
+        emailMessageHandler.handlerManager("Квитанция об оплате", PriorityLevel.HIGH);
     }
 }

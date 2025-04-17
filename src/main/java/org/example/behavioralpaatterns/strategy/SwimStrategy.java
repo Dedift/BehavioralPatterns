@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.strategy;
+package org.example.behavioralpaatterns.strategy;
 
 public class SwimStrategy implements MovementStrategy {
     @Override

@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.Iterator;
+package org.example.behavioralpaatterns.Iterator;
 
 public class MyLinkedList<E> implements MyList<E> {
     private Node<E> first;

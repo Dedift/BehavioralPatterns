@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.memento;
+package org.example.behavioralpaatterns.memento;
 
 public class GameSave {
     private final int level;

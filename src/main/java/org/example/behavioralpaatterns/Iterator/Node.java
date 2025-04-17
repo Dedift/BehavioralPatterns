@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.Iterator;
+package org.example.behavioralpaatterns.Iterator;
 
 public class Node<E> {
     E data;

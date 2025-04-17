@@ -1,6 +1,6 @@
-package org.example.behavioralpatterns.command;
+package org.example.behavioralpaatterns.command;
 
-import org.example.behavioralpatterns.command.Commands.*;
+import org.example.behavioralpaatterns.command.Commands.*;
 
 public class Main {
 

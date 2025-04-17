@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.Iterator;
+package org.example.behavioralpaatterns.Iterator;
 
 public interface MyList<E> {
     boolean add(E element);

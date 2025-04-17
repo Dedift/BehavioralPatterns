@@ -1,6 +1,7 @@
-package org.example.behavioralpatterns.command.Commands;
+package org.example.behavioralpaatterns.command.Commands;
 
-import org.example.behavioralpatterns.command.NotificationService;
+
+import org.example.behavioralpaatterns.command.NotificationService;
 
 public class SMSCommand implements Command {
     private NotificationService service;

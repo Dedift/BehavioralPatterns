@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.Interpretator.tokens;
+package org.example.behavioralpaatterns.Interpretator.tokens;
 
 public class Number implements Expression {
     int number;

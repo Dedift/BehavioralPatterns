@@ -1,10 +1,11 @@
-package org.example.behavioralpatterns.mediator;
+package org.example.behavioralpaatterns.mediator;
 
-import org.example.behavioralpatterns.mediator.components.AirConditioner;
-import org.example.behavioralpatterns.mediator.components.Component;
-import org.example.behavioralpatterns.mediator.components.Engine;
-import org.example.behavioralpatterns.mediator.components.Headlights;
-import org.example.behavioralpatterns.mediator.mediators.CarMediator;
+
+import org.example.behavioralpaatterns.mediator.components.AirConditioner;
+import org.example.behavioralpaatterns.mediator.components.Component;
+import org.example.behavioralpaatterns.mediator.components.Engine;
+import org.example.behavioralpaatterns.mediator.components.Headlights;
+import org.example.behavioralpaatterns.mediator.mediators.CarMediator;
 
 public class Driver {
     private Component engine;

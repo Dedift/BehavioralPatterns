@@ -1,7 +1,8 @@
-package org.example.behavioralpatterns.Interpretator;
+package org.example.behavioralpaatterns.Interpretator;
 
-import org.example.behavioralpatterns.Interpretator.tokens.Evaluate;
-import org.example.behavioralpatterns.Interpretator.tokens.Expression;
+
+import org.example.behavioralpaatterns.Interpretator.tokens.Evaluate;
+import org.example.behavioralpaatterns.Interpretator.tokens.Expression;
 
 public class Main {
     public static void main(String[] args) {

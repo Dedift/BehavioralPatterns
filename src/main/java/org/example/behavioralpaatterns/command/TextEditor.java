@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.command;
+package org.example.behavioralpaatterns.command;
 
 public class TextEditor {
     private StringBuilder text = new StringBuilder();

@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.visitor;
+package org.example.behavioralpaatterns.visitor;
 
 public class Schoolchild implements Child {
     private String name;

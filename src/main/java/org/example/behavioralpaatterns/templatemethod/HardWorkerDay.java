@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.templatemethod;
+package org.example.behavioralpaatterns.templatemethod;
 
 public class HardWorkerDay extends HumanDay {
     @Override

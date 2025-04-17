@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.visitor;
+package org.example.behavioralpaatterns.visitor;
 
 interface NannyVisitor {
     void visit(Baby baby);

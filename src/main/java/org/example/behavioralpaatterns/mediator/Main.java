@@ -1,9 +1,8 @@
-package org.example.behavioralpatterns.mediator;
+package org.example.behavioralpaatterns.mediator;
 
-import org.example.behavioralpatterns.mediator.mediators.Car;
-import org.example.behavioralpatterns.mediator.mediators.CarMediator;
-import org.example.behavioralpatterns.mediator.mediators.OldCar;
-import org.example.behavioralpatterns.mediator.mediators.SportCar;
+
+import org.example.behavioralpaatterns.mediator.mediators.CarMediator;
+import org.example.behavioralpaatterns.mediator.mediators.SportCar;
 
 public class Main {
     public static void main(String[] args) {

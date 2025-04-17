@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.chainofresponsibility.manyhandlers;
+package org.example.behavioralpaatterns.chainofresponsibility.manyhandlers;
 
 public abstract class MessageHandler {
 

@@ -1,6 +1,7 @@
-package org.example.behavioralpatterns.command;
+package org.example.behavioralpaatterns.command;
 
-import org.example.behavioralpatterns.command.Commands.Command;
+
+import org.example.behavioralpaatterns.command.Commands.Command;
 
 public class RemoteControl {
     private Command command;

@@ -1,6 +1,7 @@
-package org.example.behavioralpatterns.mediator.components;
+package org.example.behavioralpaatterns.mediator.components;
 
-import org.example.behavioralpatterns.mediator.mediators.CarMediator;
+
+import org.example.behavioralpaatterns.mediator.mediators.CarMediator;
 
 public class AirConditioner extends Component {
     private boolean isOn = false;

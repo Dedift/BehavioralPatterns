@@ -1,4 +1,4 @@
-package org.example.behavioralpatterns.command;
+package org.example.behavioralpaatterns.command;
 
 public class NotificationService {
     public void sendEmail(String to, String message) {
