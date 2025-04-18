@@ -5,7 +5,7 @@ public class FastFoodRestaurant extends Restaurant {
     @Override
     public void Handle(Receiver receiver)
     {
-        if (receiver.AsianFood)
+        if (receiver.FastFood)
             System.out.println("Кушаем фаст фуд");
         else if (nextRestaurant != null)
             nextRestaurant.Handle(receiver);
