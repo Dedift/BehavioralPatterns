@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        Receiver receiver = new Receiver(true, true, true);
+        Receiver receiver = new Receiver(false, true, false);
 
         Restaurant fastFoodRestaurant = new FastFoodRestaurant();
         Restaurant asianRestaurant = new AsianRestaurant();
@@ -12,10 +12,7 @@ public class Main {
 
         fastFoodRestaurant.nextRestaurant = koreanRestaurant;
         koreanRestaurant.nextRestaurant = asianRestaurant;
-        asianRestaurant.nextRestaurant = fastFoodRestaurant;
 
         fastFoodRestaurant.Handle(receiver);
-        koreanRestaurant.Handle(receiver);
-        asianRestaurant.Handle(receiver);
     }
 }
