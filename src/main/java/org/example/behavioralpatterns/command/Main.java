@@ -5,6 +5,9 @@ import org.example.behavioralpatterns.command.Commands.*;
 public class Main {
 
     public static void main(String[] args) {
+
+        System.out.printf("SAFasf");
+        System.out.println("sdgdasg");
         System.out.println("=== 1. Undo/Redo Example ===");
         TextEditor editor = new TextEditor();
         CommandHistory history = new CommandHistory();
